@@ -9,7 +9,7 @@
 🌱 I’m interested in Machine Learning, Temporal Series & Data.
 
 📫 How to reach me: 
-<div>
+<div align="inline">
   <img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width = 50px />
 
 </div>
