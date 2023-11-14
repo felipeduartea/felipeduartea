@@ -10,7 +10,7 @@
 
 📫 How to reach me: 
 <div>
-  <img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width = 100px />
+  <img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width = 50px />
 
 </div>
 https://www.linkedin.com/in/felipe-duarte-60a424277/ 
