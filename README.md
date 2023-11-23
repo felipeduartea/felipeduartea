@@ -10,7 +10,7 @@
 
 - 🔧 I’m currently a member of Tril Lab.
 
-- 💡 I’m curious about ...Machine Learning, Natural Language Processing and Data.
+- 💡 I’m very curious about ...Machine Learning, Natural Language Processing and Data.
 - 📖 I’m currently learning NextJs & NLP.
 - 📫 How to reach me ...felipeduartea04@gmail.com.
 
