@@ -8,10 +8,9 @@
 
 </br>
 
-- 🔧 I’m currently a member of Tril Lab.
+- 🔧 I’m currently a member of Tril Lab & TAIL.
 
-- 💡 I’m very curious about ...Machine Learning, Natural Language Processing and Data.
-- 📖 I’m currently learning NextJs & NLP.
+- 💡 I’m very curious about ...Machine Learning.
 - 📫 How to reach me ...felipeduartea04@gmail.com.
 
 <hr>
