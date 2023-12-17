@@ -16,8 +16,8 @@
 
 </br>
 
--  [My Website](https://www.linkedin.com/in/felipe-duarte-60a424277/)
--  [My Linkedin](https://my-portfolio-b926cd.webflow.io/)
+-  [Website](https://my-portfolio-b926cd.webflow.io/)
+-  [Linkedin](https://www.linkedin.com/in/felipe-duarte-60a424277/)
 -  [Email](mailto:felipeduartea04@gmail.com?subject=&body=)
 
 <hr>
