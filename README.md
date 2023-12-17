@@ -13,6 +13,9 @@
 - 💡 My current main area of ​​study is Machine Learning
 
 ### 🔗Reach Me
+
+</br>
+
 -  [My Website](https://www.linkedin.com/in/felipe-duarte-60a424277/)
 -  [My Linkedin](https://my-portfolio-b926cd.webflow.io/)
 -  [Email](mailto:felipeduartea04@gmail.com?subject=&body=)
@@ -67,8 +70,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 
-
-#### Data Analytics 
 ![Numpy](https://img.shields.io/badge/-Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)&nbsp;
