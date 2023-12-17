@@ -8,9 +8,11 @@
 
 </br>
 
-- 🔧 I’m currently a member of Tril Lab & TAIL.
+- 🔧 I’m currently a Student Researcher at TRIL LAB and a member of TAIL (Technology and Artificial Intelligence League)
 
-- 💡 I’m very curious about ...Machine Learning.
+- 💡 My current main area of ​​study is Machine Learning
+- 🔗 [My Website]([https://pages.github.com/](https://my-portfolio-b926cd.webflow.io/))
+- 💻 [My Linkedin]([https://my-portfolio-b926cd.webflow.io/](https://www.linkedin.com/in/felipe-duarte-60a424277/])
 - 📫 How to reach me ...felipeduartea04@gmail.com.
 
 <hr>
