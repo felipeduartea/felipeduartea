@@ -11,9 +11,11 @@
 - 🔧 I’m currently a Student Researcher at TRIL LAB and a member of TAIL (Technology and Artificial Intelligence League)
 
 - 💡 My current main area of ​​study is Machine Learning
-- 🔗 [My Website](https://www.linkedin.com/in/felipe-duarte-60a424277/)
-- 💻 [My Linkedin](https://my-portfolio-b926cd.webflow.io/)
-- 📫 [Email](mailto:felipeduartea04@gmail.com?subject=&body=)
+
+### 🔗Reach Me
+-  [My Website](https://www.linkedin.com/in/felipe-duarte-60a424277/)
+-  [My Linkedin](https://my-portfolio-b926cd.webflow.io/)
+-  [Email](mailto:felipeduartea04@gmail.com?subject=&body=)
 
 <hr>
 
