@@ -10,8 +10,7 @@
 
 - 🔧 I’m currently a Student Researcher at TRIL LAB and a member of TAIL (Technology and Artificial Intelligence League)
 
-- 💡 My current main area of ​​study is Machine Learning
-
+- 💡 My current main area of ​​study is Machine Learning and its applications in the music field.
 ### 🔗Reach Me
 
 </br>
