@@ -8,7 +8,7 @@
 
 </br>
 
-- 🔧 I’m currently a back end developer at ARIA and co-founder of Dhart
+- 🔧 I’m co-founder of Dhart
 
 - 💡 My current main area of ​​study is Machine Learning and its applications in the music field.
 ### 🔗Reach Me
