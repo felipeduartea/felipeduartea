@@ -1,6 +1,6 @@
 # Hey there👋, I'm Felipe
  
- <p>- <i>My name is Felipe Duarte, and I'm in the 4th semester of Computer Science at UFPB.</i></p>
+ <p>- <i>My name is Felipe Duarte, and I'm in the 5th semester of Computer Science at UFPB.</i></p>
 
 
 
