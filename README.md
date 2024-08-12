@@ -8,7 +8,7 @@
 
 </br>
 
-- 🔧 I’m a SWE @ mobile.dev
+- 🔧 I’m a Jr Software Engineer @ mobile.dev
 
 - 💡 My current main area of ​​study is Machine Learning and its applications in the music field.
 ### 🔗Reach Me
