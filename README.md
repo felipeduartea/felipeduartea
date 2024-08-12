@@ -8,7 +8,7 @@
 
 </br>
 
-- 🔧 I’m co-founder of Dhart
+- 🔧 I’m a SWE @ mobile.dev
 
 - 💡 My current main area of ​​study is Machine Learning and its applications in the music field.
 ### 🔗Reach Me
