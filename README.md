@@ -76,23 +76,7 @@ You can click the Preview link to take a look at your changes.
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 
-     
-</td>
-    <td>
-  
-## 📄📜 Stats
-
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=felipeduartea" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeduartea"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduartea" />
-</p>
-     
-  </td>
- </tr>
+    
 </table>
 
 
