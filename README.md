@@ -1,4 +1,4 @@
-# Hey there👋, I'm Felipe
+# Welcome👋
  
  <p>- <i>My name is Felipe Duarte, and I'm in the 5th semester of Computer Science at UFPB.</i></p>
 
@@ -10,7 +10,7 @@
 
 - 🔧 I’m a Jr Software Engineer @ mobile.dev
 
-- 💡 My current main area of ​​study is Machine Learning and its applications in the music field.
+- 💡 I'm very passionate about Machine Learning
 ### 🔗Reach Me
 
 </br>
