@@ -8,7 +8,7 @@
 
 </br>
 
-- 🔧 I’m a Jr Software Engineer @ mobile.dev
+- 🔧 I’m a Junior Software Engineer @ mobile.dev
 
 - 💡 I'm very passionate about Machine Learning
 ### 🔗Reach Me
