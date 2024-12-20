@@ -3,7 +3,7 @@
 <p>- <i>My name is Felipe Duarte, and I'm in the 5th semester of Computer Science at UFPB.</i></p>
 
 ## 🙋‍♂️ About Me
-- 🔧 **Junior Software Engineer** @ mobile.dev.
+- 🔧 **Software Engineer** @ mobile.dev.
 - 💡 **Machine Learning Enthusiast** with a passion for building smart systems.
 - 📚 Currently exploring the intersection of **AI** and **automated test**.
   
