@@ -4,8 +4,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔧 **Software Engineer** @ mobile.dev.
-- 💡 **Machine Learning Enthusiast** with a passion for building smart systems.
-- 📚 Currently exploring the intersection of **AI** and **music**.
+- 💡 **Machine Learning Enthusiast** 
   
 In my spare time, I enjoy studying how machine learning can be applied to the **music field**.
 
