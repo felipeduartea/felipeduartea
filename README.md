@@ -8,6 +8,7 @@
 I like how machine learning can be applied to the **music field**.
 
 ## 🔗 Reach Me
+- 🕸️ [Check out my website](https://vivid-personal-hub.lovable.app/)
 - 💼 [Let's connect on LinkedIn](https://www.linkedin.com/in/felipe-duarte-60a424277/)
 - 📧 [Shoot me an email](mailto:felipeduartea04@gmail.com?subject=&body=) for collaboration or just to chat!
 
